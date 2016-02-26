@@ -1,0 +1,10 @@
+/* Please override here. */
+
+.navbar-default {
+    background-color: #FEF03A;
+    border-color: #e0cc94;
+}
+
+.navbar-brand{
+	color: tomato;
+}
